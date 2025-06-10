@@ -42,4 +42,4 @@ jobs:
 
       - name: Run style check
         run: npm run fomart:check
-    
+
